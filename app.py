@@ -31,7 +31,7 @@ def qrcode_decoder(frame):
       qrcode_text = qrcode.data.decode('utf-8')
       if qrcode_text == qrcode_in_memory:
         pass
-      elif "https://" in qrcode_text:
+      elif "https://" in qrcode_text or "http://" in qrcode_text:
         wb.open_new_tab(qrcode_text)
         qrcode_in_memory = qrcode_text
       else:
