@@ -35,6 +35,10 @@ This application is a real-time QR Code Decoder via webcam feed.
 
 ## Additional features
 
-Basic keypress interactions has been implemented for better UX:
+Basic keypress interactions have been implemented for better UX:
 + Press (q) to (q)uit and close camera feed
 + Press (s) to (s)ave current camera frame
+
+## Credits
+
+Inspired by [Jordan Kalebu](https://github.com/Kalebu)'s [barcode reader](https://github.com/Kalebu/Realtime-barcode-reader)
