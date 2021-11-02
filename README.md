@@ -1,1 +1,1 @@
-# QR_code_decoder
+# QR Code Decoder
