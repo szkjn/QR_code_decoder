@@ -3,8 +3,8 @@
 tech: OpenCV / pyzbar <br>
 version: v1.0.1
 
-![opencv_frame_0](https://user-images.githubusercontent.com/84317349/139910232-ef733b23-f8f4-4cb2-a2a2-21bb47cfe886.png)
 ![opencv_frame_1](https://user-images.githubusercontent.com/84317349/139910252-11ffc888-718a-4c80-984f-d63cd033254d.png)
+![opencv_frame_0](https://user-images.githubusercontent.com/84317349/139910232-ef733b23-f8f4-4cb2-a2a2-21bb47cfe886.png)
 
 ## Concept 
 This application is a real-time QR Code Decoder via webcam feed.
