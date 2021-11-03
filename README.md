@@ -6,7 +6,7 @@ version: 1.0.1
 ![opencv_frame_dual](https://user-images.githubusercontent.com/84317349/140169041-941f4fbc-76a7-4e72-8e8b-23b8aa95774c.png)
 
 ## Overview 
-This application is a real-time QR Code Decoder via webcam feed.
+This application is a real-time QR Code Scanner via webcam feed.
 
 + If the QR Code contains an external link, the link is automatically opened on the user's default browser.
 + If the QR Code contains text, the text is displayed on the top left corner of the camera feed.
