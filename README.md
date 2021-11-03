@@ -3,10 +3,9 @@
 tech: OpenCV / pyzbar <br>
 version: 1.0.1
 
-![opencv_frame_1](https://user-images.githubusercontent.com/84317349/139910252-11ffc888-718a-4c80-984f-d63cd033254d.png)
-![opencv_frame_0](https://user-images.githubusercontent.com/84317349/139910232-ef733b23-f8f4-4cb2-a2a2-21bb47cfe886.png)
+![opencv_frame_dual](https://user-images.githubusercontent.com/84317349/140169041-941f4fbc-76a7-4e72-8e8b-23b8aa95774c.png)
 
-## Concept 
+## Overview 
 This application is a real-time QR Code Decoder via webcam feed.
 
 + If the QR Code contains an external link, the link is automatically opened on the user's default browser.
