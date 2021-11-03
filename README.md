@@ -1,4 +1,4 @@
-# QR Code Decoder
+# QR Code Scanner
 
 tech: OpenCV / pyzbar <br>
 version: 1.0.1
